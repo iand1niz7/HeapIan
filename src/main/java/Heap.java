@@ -22,17 +22,19 @@ public class Heap {
 
     public int left(int i) {
     	// TODO
-        return -1;
+        return 2 * i + 1;
     }
 
     public int right(int i) {
         // TODO
-        return -1;
+        return 2 * (i + 1);
     }
 
     public int parent(int i) {
         // TODO
-        return -1;
+        if(tail >= (heap.length - 1)
+            resize();
+            this.heap[tail] = n;
     }
 
     public void add(int n) {
