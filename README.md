@@ -1,8 +1,8 @@
 # Identificação
 
-* Nome: 
-* Email (@ccc): 
-* Matrícula: 
+* Nome: Ian Gabriel Diniz Nogueira 
+* Email (@ccc): ian.gabriel.diniz.nogueira@ccc.ufcg.edu.br
+* Matrícula: 124211522
 
 # Roteiro: Heap
 
